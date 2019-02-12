@@ -5,7 +5,7 @@ for n in name.upper().split():
 #my new file
 
     initials += n[0]
-print (initials)
+print (initials + ".")
 
 while (True):
     break
