@@ -6,3 +6,6 @@ for n in name.upper().split():
 
     initials += n[0]
 print (initials)
+
+while (True):
+    break
