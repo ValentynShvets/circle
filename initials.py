@@ -6,7 +6,8 @@ for n in name.upper().split():
 
     initials += n[0]
 print (initials + ".")
-#qqqq
+#qqqqggjyhvtrhfj
+#ghjkuhjkj,nbvju
 
 while (True):
     break
